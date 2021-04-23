@@ -1,9 +1,9 @@
 ---
-name: UBC Data Science minor frequently asked questions
+name: UBC Data Science minor question
 about: UBC Data Science minor question
 title: UBC Data Science minor question
 labels: ''
-assignees: ''
+assignees: '@timberst,@mgelbart'
 
 ---
 
