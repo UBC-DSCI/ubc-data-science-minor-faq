@@ -7,4 +7,6 @@ assignees: 'ttimbers, mgelbart, gcohenfr'
 
 ---
 
-Please write here your question about the UBC Data Science minor program or admission process. Before you ask a question, please read our current [FAQ page](https://ubc-dsci.github.io/ubc-dsci-minor-faq/) to see if your question has already been asked and answered.
+Please write your question about the UBC Data Science minor program or admission process here. 
+
+Before you ask a question, please read our current [FAQ page](https://ubc-dsci.github.io/ubc-dsci-minor-faq/) to see if your question has already been asked and answered 😄
