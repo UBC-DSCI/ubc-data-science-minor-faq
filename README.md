@@ -1,7 +1,7 @@
 # UBC Data Science minor FAQ
 Frequently asked question page to for [UBC Data Science minor](https://datascience.ubc.ca/minor).
 
-> Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.
+*Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
 
 I read that if the minor is oversubscribed, a randomization process will be used to select candidates. Will any of the criteria in this selection process be based on GPA? Is there anything I can do in my application to stand out?
 
