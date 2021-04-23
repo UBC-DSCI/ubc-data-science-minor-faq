@@ -1,5 +1,5 @@
 # UBC Data Science minor FAQ
-Frequently asked question page to for [UBC Data Science minor](https://datascience.ubc.ca/minor).
+Frequently asked question page for the [UBC Data Science minor](https://datascience.ubc.ca/minor).
 
 *Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
 
