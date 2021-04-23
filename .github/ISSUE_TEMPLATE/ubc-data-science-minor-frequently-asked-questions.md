@@ -3,7 +3,7 @@ name: UBC Data Science minor question
 about: UBC Data Science minor question
 title: UBC Data Science minor question
 labels: ''
-assignees: '@timberst,@mgelbart'
+assignees: 'ttimbers, mgelbart'
 
 ---
 
