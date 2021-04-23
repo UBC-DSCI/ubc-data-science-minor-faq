@@ -18,3 +18,5 @@ I am in third year standing now, but will be in 4th year standing in September, 
 Can I use a different second year statistics course in place of STAT 201 as the pre-requisite for STAT 301?
 
 > To obtain the Data Science minor, you will be required to take STAT 301, and STAT 201 is a hard prerequisite for it. Thus, you will need to take STAT 201 if you want to complete the minor. There is some overlap between STAT 201 and other second year statistics courses, but they are significantly different enough to not be credit excluded. STAT 201 covers topics not found in these courses that will be needed for STAT 301, including simulation-based inference and reproducible scripting for analysis.
+
+Has your question not been asked or answered here? If so, please ask it [here](https://github.com/UBC-DSCI/ubc-dsci-minor-faq/issues/new?assignees=ttimbers%2C+mgelbart%2C+gcohenfr%2C+cheeren&labels=&template=ubc-data-science-minor-frequently-asked-questions.md&title=UBC+Data+Science+minor+question).
