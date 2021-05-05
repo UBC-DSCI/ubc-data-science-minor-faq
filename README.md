@@ -4,7 +4,11 @@ Frequently asked question page for the [UBC Data Science minor](https://datascie
 *Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
 
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
+
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://ubc.ca1.qualtrics.com/jfe/form/SV_9yOGsxLDg6FH6bH) by May 15th. 
+
+I am taking DSCI100 this summer term; what should I enter in the text field for "Grade in DSCI 100" in the application form?
+> Great! You can write "taking the course in the summer" for this field. We hope you enjoy the course!  
 
 I read that if the minor is oversubscribed, a randomization process will be used to select candidates. Will any of the criteria in this selection process be based on GPA? Is there anything I can do in my application to stand out?
 
