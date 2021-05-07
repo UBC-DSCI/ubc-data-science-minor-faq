@@ -4,8 +4,17 @@ Frequently asked question page for the [UBC Data Science minor](https://datascie
 *Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
 
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
-
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://ubc.ca1.qualtrics.com/jfe/form/SV_9yOGsxLDg6FH6bH) by May 15th. 
+
+The form my home Faculty requires me to fill in asks for the signature of the Minor advisor. How should I contact this person. 
+> Note that students in the Faculty of Science do not need the minor advisor's signature yet. You can submit your application to the Faculty of Science with only the signature of your major advisor. We will contact the Faculty of Science directly after the admission process. We are in contact with the Faculty of Arts regarding this.  
+
+I am currently a third-year student, but I will be gaining year four status in September. Can I still apply? 
+> Probably! You need to satisfy the requirements for admission into a minor program from your home faculty. The Faculty Science, for example, allows second and third-year students to apply, even if they will be fourth-year students by the start of the program. 
+(We are in touch with the Faculty of Arts and will post their requirements regarding this soon.)
+
+I am a first-year student without a specialization. Can I apply?
+> Depends on the restriction of your home faculty. Faculty of Science does not allow first-year students to apply to a minor. 
 
 I am taking DSCI100 this summer term; what should I enter in the text field for "Grade in DSCI 100" in the application form?
 > Great! You can write "taking the course in the summer" for this field. We hope you enjoy the course!  
