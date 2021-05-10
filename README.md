@@ -19,8 +19,11 @@ I am a first-year student without a specialization. Can I apply?
 I am taking DSCI100 this summer term; what should I enter in the text field for "Grade in DSCI 100" in the application form?
 > Great! You can write "taking the course in the summer" for this field. We hope you enjoy the course!  
 
-I read that if the minor is oversubscribed, a randomization process will be used to select candidates. Will any of the criteria in this selection process be based on GPA? Is there anything I can do in my application to stand out?
+My home faculty's application form asks for a proposed course schedule for the minor. But I cannot find when they will be offered. What should I do?
+> Yes, the new courses are not yet on the calendar. STAT 301 will be offered in September 2021 (term 1), and DSCI 310, DSCI 320, and CPSC 368 will be offered in January 2022 (term 2)
+    - 
 
+I read that if the minor is oversubscribed, a randomization process will be used to select candidates. Will any of the criteria in this selection process be based on GPA? Is there anything I can do in my application to stand out?
 > Thanks for your interest in the program. As long as you meet the minimum lower level requirements (listed on https://datascience.ubc.ca/minor), then you have the same chance getting into the minor as anyone else who meets those requirements. Our goal for the program is to make it accessible to all students who want to take the program and meet the admissions requirements. We may not be able to do this in the first couple of years of the program, due to resource limitations and program demand. If demand exceeds the spots we can make available (which are limited by our resources) that is when the randomization process will come into play. 
 
 I haven’t taken any of the lower-level course requirements for admission to the Data Science minor yet. Can I still apply and be accepted, contingent my grades being above 68% in those courses once I take them? 
