@@ -33,10 +33,6 @@ I haven’t taken any of the lower-level course requirements for admission to th
 
 > Thanks for your interest in the Data Science minor. You must have taken the lower-level requirements, and achieved the minimum GPA (listed here: https://datascience.ubc.ca/minor) in them to meet the criteria for admission into the Data Science minor by the start of winter term 1 (for this round of applications, this is September, 2021). We will consider applications for students who take the pre-requisites in the summer, and they may be accepted with the condition that a minimum grade of 68% in the Data Science Minor lower-level requirements is obtained before the start of winter term 1.
 
-I am in third year standing now, but will be in 4th year standing in September, am I eligible for admission to the minor?
-
-> Thanks for your interest in the Data Science minor. I am sorry, but it is not open to students with 4th year standing in the fall of the year they apply. We had to have the line drawn somewhere. If I was able to, I would make this program available to all students, however we have the reality of resources limiting the number of students it can support. Have you considered applying for one of the UBC Master of Data Science programs for your next degree? We have three programs, you can learn more about them here: https://masterdatascience.ubc.ca/
-
 Can I use a different second year statistics course in place of STAT 201 as the pre-requisite for STAT 301?
 
 > To obtain the Data Science minor, you will be required to take STAT 301, and STAT 201 is a hard prerequisite for it. Thus, you will need to take STAT 201 if you want to complete the minor. There is some overlap between STAT 201 and other second year statistics courses, but they are significantly different enough to not be credit excluded. STAT 201 covers topics not found in these courses that will be needed for STAT 301, including simulation-based inference and reproducible scripting for analysis.
