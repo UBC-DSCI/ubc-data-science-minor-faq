@@ -3,6 +3,11 @@ Frequently asked question page for the [UBC Data Science minor](https://datascie
 
 *Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
 
+What are the prereqs for DSCI 310?
+> There was an inconsistency between UBC Calendar and our website. It is being fixed now. The correct prereqs for DSCI  310 are: 
+>  - _DSCI 100 and either (a) one of CPSC 203, CPSC 210 or CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110_
+
+
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://ubc.ca1.qualtrics.com/jfe/form/SV_9yOGsxLDg6FH6bH) by May 15th. 
 
