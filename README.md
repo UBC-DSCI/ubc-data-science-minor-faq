@@ -21,9 +21,6 @@ I am currently a third-year student, but I will be gaining year four status in S
 I am a first-year student without a specialization. Can I apply?
 > Depends on the restriction of your home faculty. Faculty of Science does not allow first-year students to apply to a minor. 
 
-I am taking DSCI100 this summer term; what should I enter in the text field for "Grade in DSCI 100" in the application form?
-> Great! You can write "taking the course in the summer" for this field. We hope you enjoy the course!  
-
 My home faculty's application form asks for a proposed course schedule for the minor. But I cannot find when they will be offered. What should I do?
 > Yes, the new courses are not yet on the calendar. STAT 301 will be offered in September 2021 (term 1), and DSCI 310, DSCI 320, and CPSC 368 will be offered in January 2022 (term 2)
     - 
