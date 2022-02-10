@@ -33,7 +33,7 @@ I am a BCS student, can I apply for the minor?
 
 I haven’t taken any of the lower-level course requirements for admission to the Data Science minor yet. Can I still apply and be accepted, contingent my grades being above 68% in those courses once I take them? 
 
-> Thanks for your interest in the Data Science minor. You must have taken the lower-level requirements, and achieved the minimum GPA (listed here: https://datascience.ubc.ca/minor) in them to meet the criteria for admission into the Data Science minor by the start of winter term 1 (for this round of applications, this is September, 2021). We will consider applications for students who take the pre-requisites in the summer, and they may be accepted with the condition that a minimum grade of 68% in the Data Science Minor lower-level requirements is obtained before the start of winter term 1.
+> Thanks for your interest in the Data Science minor. You must have taken the lower-level requirements, and achieved the minimum GPA (listed here: https://datascience.ubc.ca/minor) in them to meet the criteria for admission into the Data Science minor by the start of winter term 1 (for this round of applications, this is September, 2022). 
 
 Can I use a different second year statistics course in place of STAT 201 as the pre-requisite for STAT 301?
 
