@@ -1,13 +1,6 @@
 # UBC Data Science minor FAQ
 Frequently asked question page for the [UBC Data Science minor](https://datascience.ubc.ca/minor).
 
-*Formal approval for the Data Science Minor is pending. In anticipation of approval, we are moving forward with admissions at this time.*
-
-What are the prereqs for DSCI 310?
-> There was an inconsistency between UBC Calendar and our website. It is being fixed now. The correct prereqs for DSCI  310 are: 
->  - _DSCI 100 and either (a) one of CPSC 203, CPSC 210 or CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110_
-
-
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) by May 15th. 
 
@@ -38,5 +31,9 @@ I haven’t taken any of the lower-level course requirements for admission to th
 Can I use a different second year statistics course in place of STAT 201 as the pre-requisite for STAT 301?
 
 > To obtain the Data Science minor, you will be required to take STAT 301, and STAT 201 is a hard prerequisite for it. Thus, you will need to take STAT 201 if you want to complete the minor. There is some overlap between STAT 201 and other second year statistics courses, but they are significantly different enough to not be credit excluded. STAT 201 covers topics not found in these courses that will be needed for STAT 301, including simulation-based inference and reproducible scripting for analysis.
+
+What are the prereqs for DSCI 310?
+> There was an inconsistency between UBC Calendar and our website. It is being fixed now. The correct prereqs for DSCI  310 are: 
+>  - _DSCI 100 and either (a) one of CPSC 203, CPSC 210 or CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110_
 
 Has your question not been asked or answered here? If so, please ask it [here](https://github.com/UBC-DSCI/ubc-dsci-minor-faq/issues/new?assignees=ttimbers%2C+mgelbart%2C+gcohenfr%2C+cheeren&labels=&template=ubc-data-science-minor-frequently-asked-questions.md&title=UBC+Data+Science+minor+question).
