@@ -4,8 +4,8 @@ Frequently asked question page for the [UBC Data Science minor](https://datascie
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) by May 15th. 
 
-The form my home Faculty requires me to fill in asks for the signature of the Minor advisor. How should I contact this person. 
-> Note that students in the Faculty of Science do not need the minor advisor's signature yet. You can submit your application to the Faculty of Science with only the signature of your major advisor. We will contact the Faculty of Science directly after the admission process. We are in contact with the Faculty of Arts regarding this.  
+The form my home Faculty requires me to fill in asks for the signature of the Data Science Minor advisor. How should I contact this person. 
+> Note that students in the Faculty of Science do not need the Data Science minor advisor's signature when you apply to the minor. You can submit your application to the Faculty of Science with only the signature of your major advisor. We will contact the Faculty of Science directly after the admission process. We are in contact with the Faculty of Arts regarding this.  
 
 I am currently a third-year student, but I will be gaining year four status in September. Can I still apply? 
 > Probably! You need to satisfy the requirements for admission into a minor program from your home faculty. The Faculty Science, for example, allows second and third-year students to apply, even if they will be fourth-year students by the start of the program. 
