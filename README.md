@@ -5,17 +5,17 @@ I have filled out the application form for the Data Science Minor, is there anyt
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) by May 15th. 
 
 The form my home Faculty requires me to fill in asks for the signature of the Data Science Minor advisor. How should I contact this person. 
-> Note that students in the Faculty of Science do not need the Data Science minor advisor's signature when you apply to the minor. You can submit your application to the Faculty of Science with only the signature of your major advisor. We will contact the Faculty of Science directly after the admission process. We are in contact with the Faculty of Arts regarding this.  
+> You do not need the Data Science minor advisor's signature when you apply to the minor. You can submit your application with only the signature of your major advisor (if required by your faculty). We will contact your Faculty directly after the admission process. 
 
 Who needs to sign the [Primary Specialization Approval Form - Minor in Data Science](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) form that Science students are required to fill out to apply for the Data Science Minor?
 > The [Primary Specialization Approval Form - Minor in Data Science](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) form needs to be signed by your Major Advisor.
 
 I am currently a third-year student, but I will be gaining year four status in September. Can I still apply? 
-> Probably! You need to satisfy the requirements for admission into a minor program from your home faculty. The Faculty Science, for example, allows second and third-year students to apply, even if they will be fourth-year students by the start of the program. 
-(We are in touch with the Faculty of Arts and will post their requirements regarding this soon.)
+> Probably! You need to satisfy the requirements for admission into a minor program from your home faculty. The Faculty Science, for example, allows second and third-year students to apply, even if they will be fourth-year students by the start of the program. Other faculties might not have any year requirements. In general, each faculty has their own rules. Check with a faculty advisor if you are not sure. 
+
 
 I am a first-year student without a specialization. Can I apply?
-> Depends on the restriction of your home faculty. Faculty of Science does not allow first-year students to apply to a minor. 
+> Depends on the restriction of your home faculty. Faculty of Science does not allow first-year students to apply to a minor. Faculty of Arts does allow. If you are unsure, check with a faculty advisor.
 
 I read that if the minor is oversubscribed, a randomization process will be used to select candidates. Will any of the criteria in this selection process be based on GPA? Is there anything I can do in my application to stand out?
 > Thanks for your interest in the program. As long as you meet the minimum lower level requirements (listed on https://datascience.ubc.ca/minor), then you have the same chance getting into the minor as anyone else who meets those requirements. Our goal for the program is to make it accessible to all students who want to take the program and meet the admissions requirements. We may not be able to do this in the first couple of years of the program, due to resource limitations and program demand. If demand exceeds the spots we can make available (which are limited by our resources) that is when the randomization process will come into play. 
