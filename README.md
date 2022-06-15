@@ -35,4 +35,10 @@ What are the prereqs for DSCI 310?
 > There was an inconsistency between UBC Calendar and our website. It is being fixed now. The correct prereqs for DSCI  310 are: 
 >  - _DSCI 100 and either (a) one of CPSC 203, CPSC 210 or CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110_
 
+To take a course from the Data Science minor's upper-level requirements that has prereqs beyond what is required for the minor (like CPSC 304), do I actually need to take the extra prereqs?
+
+> Yes, you need the prereqs for the courses you take. 
+> Fortunately, there are paths to complete the upper-level minor requirements without taking additional prereqs,
+> such as taking CPSC 368 rather than CPSC 304.
+
 Has your question not been asked or answered here? If so, please ask it [here](https://github.com/UBC-DSCI/ubc-dsci-minor-faq/issues/new?assignees=ttimbers%2C+mgelbart%2C+gcohenfr%2C+cheeren&labels=&template=ubc-data-science-minor-frequently-asked-questions.md&title=UBC+Data+Science+minor+question).
