@@ -41,4 +41,4 @@ To take a course from the Data Science minor's upper-level requirements that has
 > Fortunately, there are paths to complete the upper-level minor requirements without taking additional prereqs,
 > such as taking CPSC 368 rather than CPSC 304.
 
-Has your question not been asked or answered here? If so, please ask it [here](https://github.com/UBC-DSCI/ubc-dsci-minor-faq/issues/new?assignees=ttimbers%2C+mgelbart%2C+gcohenfr%2C+cheeren&labels=&template=ubc-data-science-minor-frequently-asked-questions.md&title=UBC+Data+Science+minor+question).
+Has your question not been answered here? If so, please send an email to dsugradadv@stat.ubc.ca.
