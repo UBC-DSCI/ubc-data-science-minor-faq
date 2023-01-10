@@ -1,6 +1,9 @@
 # UBC Data Science minor FAQ
 Frequently asked question page for the [UBC Data Science minor](https://datascience.ubc.ca/minor).
 
+When can I apply for the minor?
+> The application opens in April each year. You need to have finished (or be finishing up) any course prerequisites by the time of the application,
+
 I have filled out the application form for the Data Science Minor, is there anything else I should do? 
 > Yes. Please make sure to complete any requirements for admission into a minor program from your home faculty. For example, the Faculty of Science students must fill out the form for [Science Minor: Minor in another Science specialization](https://science.ubc.ca/sites/science.ubc.ca/files/DataScienceMinor-PrimarySpecAdvisorApproval-v0322.pdf) by May 15th. 
 
